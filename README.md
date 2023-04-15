@@ -59,11 +59,12 @@ infrastructure
 
 #### Explain the different cloud architecture design principles
 * Explain the design principles
-  * This presentation cover all the 4 topics below: [Architecting in the Cloud](http://aws001.s3.amazonaws.com/trailhead/TrailHead_ArchitectingInTheCloud.pdf) 
   * Design for failure
   * Decouple components versus monolithic architecture
   * Implement elasticity in the cloud versus on-premises
   * Think parallel
+
+> **_NOTE:_**  All  those items above are covered in this ebook: [Architecting in the Cloud](http://aws001.s3.amazonaws.com/trailhead/TrailHead_ArchitectingInTheCloud.pdf) 
 
 ### 💡 Security and Compliance (25%)
 
