@@ -56,12 +56,12 @@ infrastructure
 SOCs)
   * Recognize that compliance requirements vary among AWS services
 * At a high level, describe how customers achieve compliance on AWS
- * Identify different encryption options on AWS (for example, In transit, At rest)
+  * Identify different encryption options on AWS (for example, In transit, At rest)
 * Describe who enables encryption on AWS for a given service
 * Recognize there are services that will aid in auditing and reporting
- * Recognize that logs exist for auditing and monitoring (do not have to understand the
+  * Recognize that logs exist for auditing and monitoring (do not have to understand the
 logs)
- * Define Amazon CloudWatch, AWS Config, and AWS CloudTrail
+  * Define Amazon CloudWatch, AWS Config, and AWS CloudTrail
 * Explain the concept of least privileged access
 
 #### Identify AWS access management capabilities
