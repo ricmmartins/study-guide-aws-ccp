@@ -66,14 +66,14 @@ logs)
 
 #### Identify AWS access management capabilities
 * Understand the purpose of User and Identity Management
- * Access keys and password policies (rotation, complexity)
- * Multi-Factor Authentication (MFA)
- * AWS Identity and Access Management (IAM)
-   * Groups/users
-   * Roles
-   * Policies, managed policies compared to custom policies
- * Tasks that require use of root accounts
- * Protection of root accounts
+  * Access keys and password policies (rotation, complexity)
+  * Multi-Factor Authentication (MFA)
+  * AWS Identity and Access Management (IAM)
+    * Groups/users
+    * Roles
+    * Policies, managed policies compared to custom policies
+  * Tasks that require use of root accounts
+  * Protection of root accounts
 
 #### Identify resources for security support
 * Recognize there are different network security capabilities
