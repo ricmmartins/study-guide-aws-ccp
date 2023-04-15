@@ -41,11 +41,13 @@ infrastructure
 
 ####  Identify aspects of AWS Cloud economics
 * Define items that would be part of a Total Cost of Ownership proposal
-> **_NOTE:_**  All  those items are covered in this ebook: [AWS Cloud Economics](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Economics%20Ebook_October%202018.pdf)
   * Understand the role of operational expenses (OpEx)
   * Understand the role of capital expenses (CapEx)
   * Understand labor costs associated with on-premises operations
   * Understand the impact of software licensing costs when moving to the cloud
+
+> **_NOTE:_**  All  those items above are covered in this ebook: [AWS Cloud Economics](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Economics%20Ebook_October%202018.pdf)
+
 * Identify which operations will reduce costs by moving to the cloud
   * Right-sized infrastructure
     * [Tips for Right Sizing](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-right-sizing/tips-for-right-sizing-your-workloads.html)
