@@ -18,7 +18,8 @@ This guide is intended to provide a list of pre-selected materials to help anyon
     * [High availability and scalability on AWS](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html)
   * Elasticity:
     * [Definition of Elasticity](https://wa.aws.amazon.com/wat.concept.elasticity.en.html)
-  * [Agility](https://aws.amazon.com/what-is-cloud-computing/)
+  * Agility
+    * [What is Cloud Computing - Look for Agility](https://aws.amazon.com/what-is-cloud-computing/)
   * Pay-as-you go pricing:
     * [How does AWS pricing work?](https://aws.amazon.com/pricing/?aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all#)
   * Scalability:
@@ -28,9 +29,13 @@ This guide is intended to provide a list of pre-selected materials to help anyon
   * Economy of scale:
    * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
    * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
-* Explain how the AWS cloud allows users to focus on business value
-  * Shifting technical resources to revenue-generating activities as opposed to managing
-infrastructure
+* Explain how the AWS cloud allows users to focus on business value:
+  * [Business value on AWS](Business Value on AWS)
+  * [Realizing Business Value with AWS](https://aws.amazon.com/executive-insights/content/realizing-business-value-with-aws/)
+    * Shifting technical resources to revenue-generating activities as opposed to managing
+infrastructure:
+      * [Cloud Economics Center](https://aws.amazon.com/economics/)
+      * [What Is IaaS (Infrastructure as a Service)?](https://aws.amazon.com/what-is/iaas/)
 
 ####  Identify aspects of AWS Cloud economics
 * Define items that would be part of a Total Cost of Ownership proposal
