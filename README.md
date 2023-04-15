@@ -52,9 +52,9 @@ infrastructure
 * Describe AWS responsibilities
 #### Define AWS Cloud security and compliance concepts
 * Identify where to find AWS compliance information
- * Locations of lists of recognized available compliance controls (for example, HIPPA,
+  * Locations of lists of recognized available compliance controls (for example, HIPPA,
 SOCs)
- * Recognize that compliance requirements vary among AWS services
+  * Recognize that compliance requirements vary among AWS services
 * At a high level, describe how customers achieve compliance on AWS
  * Identify different encryption options on AWS (for example, In transit, At rest)
 * Describe who enables encryption on AWS for a given service
