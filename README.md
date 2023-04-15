@@ -37,10 +37,10 @@ infrastructure
 
 #### Explain the different cloud architecture design principles
 * Explain the design principles
- * Design for failure
- * Decouple components versus monolithic architecture
- * Implement elasticity in the cloud versus on-premises
- * Think parallel
+  * Design for failure
+  * Decouple components versus monolithic architecture
+  * Implement elasticity in the cloud versus on-premises
+  * Think parallel
 
 ### 💡 Security and Compliance (25%)
 
