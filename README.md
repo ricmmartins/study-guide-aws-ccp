@@ -69,9 +69,9 @@ logs)
  * Access keys and password policies (rotation, complexity)
  * Multi-Factor Authentication (MFA)
  * AWS Identity and Access Management (IAM)
-  * Groups/users
-  * Roles
-  * Policies, managed policies compared to custom policies
+   * Groups/users
+   * Roles
+   * Policies, managed policies compared to custom policies
  * Tasks that require use of root accounts
  * Protection of root accounts
 
