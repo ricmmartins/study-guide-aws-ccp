@@ -27,11 +27,11 @@ This guide is intended to provide a list of pre-selected materials to help anyon
   * Global Reach:
     * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?pg=cloudessentials)
   * Economy of scale:
-   * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
-   * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
+    * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
+    * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 * Explain how the AWS cloud allows users to focus on business value:
-  * [Business value on AWS](Business Value on AWS)
-  * [Realizing Business Value with AWS](https://aws.amazon.com/executive-insights/content/realizing-business-value-with-aws/)
+    * [Business value on AWS](https://aws.amazon.com/executive-insights/content/business-value-on-aws/)
+    * [Realizing Business Value with AWS](https://aws.amazon.com/executive-insights/content/realizing-business-value-with-aws/)
     * Shifting technical resources to revenue-generating activities as opposed to managing
 infrastructure:
       * [Cloud Economics Center](https://aws.amazon.com/economics/)
