@@ -82,6 +82,7 @@ infrastructure
 * Identify where to find AWS compliance information
   * Locations of lists of recognized available compliance controls (for example, HIPPA,
 SOCs)
+    * [Compliance FAQ](https://aws.amazon.com/compliance/faq/)
   * Recognize that compliance requirements vary among AWS services
 * At a high level, describe how customers achieve compliance on AWS
   * Identify different encryption options on AWS (for example, In transit, At rest)
