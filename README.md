@@ -10,15 +10,20 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 #### Define the AWS Cloud and its value proposition
 * Define the benefits of the AWS cloud including:
-  * Security
-  * Reliability
-  * High Availability
-  * Elasticity
-  * Agility
-  * Pay-as-you go pricing
-  * Scalability
-  * Global Reach
-  * Economy of scale
+  * Security:
+    * [AWS Cloud Security](https://aws.amazon.com/security/)
+  * Reliability:
+    * [Definition of Reliability](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.reliability.en.html)
+  * High Availability:
+    * [High availability and scalability on AWS](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html)
+  * [Elasticity](https://wa.aws.amazon.com/wat.concept.elasticity.en.html)
+  * [Agility](https://aws.amazon.com/what-is-cloud-computing/)
+  * [Pay-as-you go pricing](https://aws.amazon.com/pricing/?aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all#)
+  * [Scalability](https://wa.aws.amazon.com/wat.concept.scalability.en.html)
+  * [Global Reach](https://aws.amazon.com/about-aws/global-infrastructure/?pg=cloudessentials)
+  * Economy of scale:
+   * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
+   * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 * Explain how the AWS cloud allows users to focus on business value
   * Shifting technical resources to revenue-generating activities as opposed to managing
 infrastructure
