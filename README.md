@@ -12,6 +12,8 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Define the benefits of the AWS cloud including:
   * Security:
     * [AWS Cloud Security](https://aws.amazon.com/security/)
+    * [Security, Identity, and Compliance on AWS](https://aws.amazon.com/products/security/)
+    * [Security and Compliance Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
   * Reliability:
     * [Definition of Reliability](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.reliability.en.html)
   * High Availability:
