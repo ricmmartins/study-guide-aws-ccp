@@ -32,10 +32,10 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 * Explain how the AWS cloud allows users to focus on business value:
     * [Business value on AWS](https://aws.amazon.com/executive-insights/content/business-value-on-aws/)
     * [Realizing Business Value with AWS](https://aws.amazon.com/executive-insights/content/realizing-business-value-with-aws/)
-    * Shifting technical resources to revenue-generating activities as opposed to managing
+* Shifting technical resources to revenue-generating activities as opposed to managing
 infrastructure:
-      * [Cloud Economics Center](https://aws.amazon.com/economics/)
-      * [What Is IaaS (Infrastructure as a Service)?](https://aws.amazon.com/what-is/iaas/)
+    * [Cloud Economics Center](https://aws.amazon.com/economics/)
+    * [What Is IaaS (Infrastructure as a Service)?](https://aws.amazon.com/what-is/iaas/)
 
 ####  Identify aspects of AWS Cloud economics
 * Define items that would be part of a Total Cost of Ownership proposal
