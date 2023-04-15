@@ -155,21 +155,30 @@ solution architects, training and certification, and the Amazon Partner Network
 
 ### 💡 Billing and Pricing (16%)
 
-## Extras
+#### Compare and contrast the various pricing models for AWS (for example, On-Demand Instances,
+Reserved Instances, and Spot Instance pricing)
+* Identify scenarios/best fit for On-Demand Instance pricing
+* Identify scenarios/best fit for Reserved-Instance pricing
+  * Describe Reserved-Instances flexibility
+  * Describe Reserved-Instances behavior in AWS Organizations
+* Identify scenarios/best fit for Spot Instance pricing
 
-* [AZ-900 Overview](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
-* [Certification poster](http://aka.ms/traincertposter)
-* [Free Azure account sign-up](https://azure.microsoft.com/en-us/free/)
-* [Exam environment simulation](https://aka.ms/examdemo)
-* [Azure Infrastructure Map](http://infrastructuremap.microsoft.com/)
-* [Cloud administration basics](https://docs.microsoft.com/en-us/learn/paths/cmu-admin/)
-  * [Foundations of cloud computing for administrators](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Provision and manage cloud services](https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Secure your cloud resources with access control](https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Virtualize resources in the cloud](https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Scale your cloud resources with elasticity](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Automate cloud resource management](https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
-  * [Monitor cloud resources](https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.cmu-cloud-admin.cloud-admin)
+#### Recognize the various account structures in relation to AWS billing and pricing
+* Recognize that consolidated billing is a feature of AWS Organizations
+* Identify how multiple accounts aid in allocating costs across departments
+
+#### Identify resources available for billing support
+* Identify ways to get billing support and information
+  * Cost Explorer, AWS Cost and Usage Report, Amazon QuickSight, third-party partners,
+and AWS Marketplace tools
+  * Open a billing support case
+  * The role of the Concierge for AWS Enterprise Support Plan customers
+* Identify where to find pricing information on AWS services
+  * AWS Simple Monthly Calculator
+  * AWS Services product pages
+  * AWS Pricing API
+* Recognize that alarms/alerts exist
+* Identify how tags are used in cost allocation
 
 ## Show your support
 Give the project's GitHub repository a ⭐️ if this content helped you!
