@@ -2,7 +2,7 @@
 
 This guide is intended to provide a list of pre-selected materials to help anyone starting in the cloud computing career and/or discovering AWS be ready to the AWS Certified Cloud Practitioner Exam
 
-*Last update on April 7, 2023*
+*Last update on April 15, 2023*
 
 ## 📝 Skills Measured - [Obtained from the official link](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
