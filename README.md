@@ -9,50 +9,55 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 ### 💡 Cloud Concepts (26%)
 
 #### Define the AWS Cloud and its value proposition
-* Define the benefits of the AWS cloud including:
-  * Security:
+* Define the benefits of the AWS cloud including
+  * Security
     * [AWS Cloud Security](https://aws.amazon.com/security/)
     * [Security, Identity, and Compliance on AWS](https://aws.amazon.com/products/security/)
     * [Security and Compliance Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
-  * Reliability:
+  * Reliability
     * [Definition of Reliability](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.reliability.en.html)
-  * High Availability:
+  * High Availability
     * [High availability and scalability on AWS](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html)
-  * Elasticity:
+  * Elasticity
     * [Definition of Elasticity](https://wa.aws.amazon.com/wat.concept.elasticity.en.html)
   * Agility
     * [What is Cloud Computing - Look for Agility](https://aws.amazon.com/what-is-cloud-computing/)
-  * Pay-as-you go pricing:
+  * Pay-as-you go pricing
     * [How does AWS pricing work?](https://aws.amazon.com/pricing/?aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all#)
-  * Scalability:
+  * Scalability
     * [Definition of Scalability](https://wa.aws.amazon.com/wat.concept.scalability.en.html)
-  * Global Reach:
+  * Global Reach
     * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?pg=cloudessentials)
-  * Economy of scale:
+  * Economy of scale
     * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
     * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
-* Explain how the AWS cloud allows users to focus on business value:
+* Explain how the AWS cloud allows users to focus on business value
     * [Business value on AWS](https://aws.amazon.com/executive-insights/content/business-value-on-aws/)
     * [Realizing Business Value with AWS](https://aws.amazon.com/executive-insights/content/realizing-business-value-with-aws/)
 * Shifting technical resources to revenue-generating activities as opposed to managing
-infrastructure:
+infrastructure
     * [Cloud Economics Center](https://aws.amazon.com/economics/)
     * [What Is IaaS (Infrastructure as a Service)?](https://aws.amazon.com/what-is/iaas/)
 
 ####  Identify aspects of AWS Cloud economics
 * Define items that would be part of a Total Cost of Ownership proposal
-  * Understand the role of operational expenses (OpEx)
-  * Understand the role of capital expenses (CapEx)
-  * Understand labor costs associated with on-premises operations
-  * Understand the impact of software licensing costs when moving to the cloud
+  * All below 4 items are covered in this ebook: [AWS Cloud Economics](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Economics%20Ebook_October%202018.pdf)
+    * Understand the role of operational expenses (OpEx)
+    * Understand the role of capital expenses (CapEx)
+    * Understand labor costs associated with on-premises operations
+    * Understand the impact of software licensing costs when moving to the cloud
 * Identify which operations will reduce costs by moving to the cloud
   * Right-sized infrastructure
+    * [Tips for Right Sizing](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-right-sizing/tips-for-right-sizing-your-workloads.html)
+    * [Resize before Migrating](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-right-sizing/right-size-before-migrating.html)
   * Benefits of automation
+    * [Evaluate the cost benefits of automation](https://docs.aws.amazon.com/wellarchitected/latest/sap-lens/best-practice-17-7.html)
   * Reduce compliance scope (for example, reporting)
   * Managed services (for example, RDS, ECS, EKS, DynamoDB)
 
 #### Explain the different cloud architecture design principles
 * Explain the design principles
+  * This presentation cover all the 4 topics below: [Architecting in the Cloud](http://aws001.s3.amazonaws.com/trailhead/TrailHead_ArchitectingInTheCloud.pdf) 
   * Design for failure
   * Decouple components versus monolithic architecture
   * Implement elasticity in the cloud versus on-premises
