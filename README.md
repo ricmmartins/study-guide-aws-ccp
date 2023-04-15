@@ -77,11 +77,11 @@ logs)
 
 #### Identify resources for security support
 * Recognize there are different network security capabilities
- * Native AWS services (for example, security groups, Network ACLs, AWS WAF)
- * 3rd party security products from the AWS Marketplace
+  * Native AWS services (for example, security groups, Network ACLs, AWS WAF)
+  * 3rd party security products from the AWS Marketplace
 * Recognize there is documentation and where to find it (for example, best practices, whitepapers, official documents)
- * AWS Knowledge Center, Security Center, security forum, and security blogs
- * Partner Systems Integrators
+  * AWS Knowledge Center, Security Center, security forum, and security blogs
+  * Partner Systems Integrators
 * Know that security checks are a component of AWS Trusted Advisor
 
 
