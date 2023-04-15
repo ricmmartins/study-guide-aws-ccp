@@ -74,6 +74,10 @@ infrastructure
   * Describe how the customer’s responsibilities may shift depending on the service used
 (for example with RDS, Lambda, or EC2)
 * Describe AWS responsibilities
+
+> **_NOTE:_**  All  those items above are covered in this link: [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) 
+
+
 #### Define AWS Cloud security and compliance concepts
 * Identify where to find AWS compliance information
   * Locations of lists of recognized available compliance controls (for example, HIPPA,
