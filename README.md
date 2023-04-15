@@ -36,9 +36,53 @@ infrastructure
   * Managed services (for example, RDS, ECS, EKS, DynamoDB)
 
 #### Explain the different cloud architecture design principles
+* Explain the design principles
+ * Design for failure
+ * Decouple components versus monolithic architecture
+ * Implement elasticity in the cloud versus on-premises
+ * Think parallel
 
 ### 💡 Security and Compliance (25%)
 
+#### Define the AWS shared responsibility model
+* Recognize the elements of the Shared Responsibility Model
+* Describe the customer’s responsibly on AWS
+  * Describe how the customer’s responsibilities may shift depending on the service used
+(for example with RDS, Lambda, or EC2)
+* Describe AWS responsibilities
+#### Define AWS Cloud security and compliance concepts
+* Identify where to find AWS compliance information
+ * Locations of lists of recognized available compliance controls (for example, HIPPA,
+SOCs)
+ * Recognize that compliance requirements vary among AWS services
+* At a high level, describe how customers achieve compliance on AWS
+ * Identify different encryption options on AWS (for example, In transit, At rest)
+* Describe who enables encryption on AWS for a given service
+* Recognize there are services that will aid in auditing and reporting
+ * Recognize that logs exist for auditing and monitoring (do not have to understand the
+logs)
+ * Define Amazon CloudWatch, AWS Config, and AWS CloudTrail
+* Explain the concept of least privileged access
+
+#### Identify AWS access management capabilities
+* Understand the purpose of User and Identity Management
+ * Access keys and password policies (rotation, complexity)
+ * Multi-Factor Authentication (MFA)
+ * AWS Identity and Access Management (IAM)
+  * Groups/users
+  * Roles
+  * Policies, managed policies compared to custom policies
+ * Tasks that require use of root accounts
+ * Protection of root accounts
+
+#### Identify resources for security support
+* Recognize there are different network security capabilities
+ * Native AWS services (for example, security groups, Network ACLs, AWS WAF)
+ * 3rd party security products from the AWS Marketplace
+* Recognize there is documentation and where to find it (for example, best practices, whitepapers, official documents)
+ * AWS Knowledge Center, Security Center, security forum, and security blogs
+ * Partner Systems Integrators
+* Know that security checks are a component of AWS Trusted Advisor
 
 
 ### 💡 Technology (33%)
