@@ -56,6 +56,7 @@ infrastructure
     * [Evaluate the cost benefits of automation](https://docs.aws.amazon.com/wellarchitected/latest/sap-lens/best-practice-17-7.html)
   * Reduce compliance scope (for example, reporting)
   * Managed services (for example, RDS, ECS, EKS, DynamoDB)
+    * [10 things you can do today to reduce AWS costs](https://aws.amazon.com/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
 
 #### Explain the different cloud architecture design principles
 * Explain the design principles
