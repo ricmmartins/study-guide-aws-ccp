@@ -258,16 +258,24 @@ compared to Amazon Elastic Container Service (Amazon ECS), or Amazon EC2, etc.)
 #### Identify resources for technology support
 * Recognize there is documentation (best practices, whitepapers, AWS Knowledge Center,
 forums, blogs)
+  * [AWS Documentation](https://docs.aws.amazon.com/)
+  * [Getting Started with AWS](https://aws.amazon.com/getting-started/)
+  * [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
+  * [AWS Blogs](https://aws.amazon.com/blogs/)
 * Identify the various levels and scope of AWS support
   * AWS Abuse
+    * [AWS response to abuse and compromise](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/abuse-and-compromise.html)
   * AWS support cases
+    * [Getting started with AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/getting-started.html)
   * Premium support
+    * [AWS Support Plans](https://docs.aws.amazon.com/awssupport/latest/user/aws-support-plans.html)
   * Technical Account Managers
 * Recognize there is a partner network (marketplace, third-party) including Independent
 Software Vendors and System Integrators
 * Identify sources of AWS technical assistance and knowledge including professional services,
 solution architects, training and certification, and the Amazon Partner Network
 * Identify the benefits of using AWS Trusted Advisor
+  * [AWS Trusted Advisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
 
 ### 💡 Billing and Pricing (16%)
 
