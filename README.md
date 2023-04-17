@@ -269,7 +269,10 @@ forums, blogs)
     * [Getting started with AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/getting-started.html)
   * Premium support
     * [AWS Support Plans](https://docs.aws.amazon.com/awssupport/latest/user/aws-support-plans.html)
+    * [Compare AWS Support Plans](https://aws.amazon.com/premiumsupport/plans/)
   * Technical Account Managers
+    * [AWS Enterprise Support](https://aws.amazon.com/premiumsupport/plans/enterprise/)
+
 * Recognize there is a partner network (marketplace, third-party) including Independent
 Software Vendors and System Integrators
 * Identify sources of AWS technical assistance and knowledge including professional services,
