@@ -87,6 +87,7 @@ SOCs)
   * Recognize that compliance requirements vary among AWS services
     * [AWS Services in Scope by Compliance Program](https://aws.amazon.com/compliance/services-in-scope/SOC/)
     * [Introduction to AWS Security - Compliance section](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html)
+    * [Introduction to AWS Security - PDF Whitepaper]([https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf))
     * (AWS Risk and Compliance E-book)[https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance.pdf)
 * At a high level, describe how customers achieve compliance on AWS
   * Identify different encryption options on AWS (for example, In transit, At rest)
@@ -112,24 +113,46 @@ logs)
 
 #### Identify AWS access management capabilities
 * Understand the purpose of User and Identity Management
+  * [When do I use IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/when-to-use-iam.html) 
+  * [Overview of AWS identity management: Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_identity-management.html)
   * Access keys and password policies (rotation, complexity)
+    * [Managing access keys for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
   * Multi-Factor Authentication (MFA)
+    * [Multi-Factor Authentication (MFA) for IAM](https://aws.amazon.com/iam/features/mfa/)
   * AWS Identity and Access Management (IAM)
     * Groups/users
+      * [IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html)
+      * [IAM user groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
     * Roles
+      * [IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
     * Policies, managed policies compared to custom policies
+      * [Policies and permissions in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
+      * [Overview of access management: Permissions and policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html)
+      * [What are AWS managed policies?](https://docs.aws.amazon.com/aws-managed-policy/latest/reference/about-managed-policy-reference.html)
+      * [Creating IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html)
   * Tasks that require use of root accounts
+    * [Tasks that require root user credentials](https://docs.aws.amazon.com/accounts/latest/reference/root-user-tasks.html)
   * Protection of root accounts
+    * [Best practices to protect your account's root user](https://docs.aws.amazon.com/accounts/latest/reference/best-practices-root-user.html)
 
 #### Identify resources for security support
 * Recognize there are different network security capabilities
   * Native AWS services (for example, security groups, Network ACLs, AWS WAF)
+    * [Network and Application Protection on AWS](https://aws.amazon.com/products/security/network-application-protection/) 
   * 3rd party security products from the AWS Marketplace
+    * [Security Products in AWS Marketplace](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/security-products-in-aws-marketplace.html)
 * Recognize there is documentation and where to find it (for example, best practices, whitepapers, official documents)
   * AWS Knowledge Center, Security Center, security forum, and security blogs
+    * [AWS Knowledge Center](https://repost.aws/knowledge-center)
+    * [AWS Security](https://aws.amazon.com/security/)
+    * [Security Blogs](https://aws.amazon.com/security/blogs/)
   * Partner Systems Integrators
+    * [AWS Partner Network Blog](https://aws.amazon.com/blogs/apn/)
 * Know that security checks are a component of AWS Trusted Advisor
-
+  * [AWS Trusted Avisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+  * [Documentation - Trusted Advisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
+  * [AWS Trusted Advisor check reference](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html)
+  * [Amazon Trusted Advisor Best Practices (Checks)](https://www.amazonaws.cn/en/support/trustedadvisor/best-practices/)
 
 ### 💡 Technology (33%)
 
