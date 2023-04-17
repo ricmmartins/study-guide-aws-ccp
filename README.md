@@ -160,27 +160,51 @@ logs)
 * Identify at a high level different ways of provisioning and operating in the AWS cloud
   * Programmatic access, APIs, SDKs, AWS Management Console, CLI, Infrastructure as
 Code
+    * [What is an API?](https://aws.amazon.com/what-is/api/)
+    * [What is an SDK?](https://aws.amazon.com/what-is/sdk/)
+    * [What is the AWS Management Console?](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/learn-whats-new.html)
+    * [What is the AWS CLI?](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 * Identify different types of cloud deployment models
   * All in with cloud/cloud native
+    *  [What is Cloud Native?](https://aws.amazon.com/what-is/cloud-native/)
   * Hybrid
+    * [What is Hybrid Cloud?](https://aws.amazon.com/what-is/hybrid-cloud/)
   * On-premises
+    * [On-premises definition under "Cloud computing deployment model"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
 * Identify connectivity options
   * VPN
+    * [AWS VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/networking-services.html#aws-vpn)
   * AWS Direct Connect
+    * [AWS Direct Connect](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/networking-services.html#aws-direct-connect)
   * Public internet
 
 #### Define the AWS global infrastructure
 * Describe the relationships among Regions, Availability Zones, and Edge Locations
+  * [AWS Global Infrastructure](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html)
+  * [Regions and Zones](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 * Describe how to achieve high availability through the use of multiple Availability Zones
   * Recall that high availability is achieved by using multiple Availability Zones
+    * [Use multiple Availability Zones](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/use-multiple-availability-zones.html)
   * Recognize that Availability Zones do not share single points of failure
+    * [High availability and scalability on AWS](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html)
 * Describe when to consider the use of multiple AWS Regions
   * Disaster recovery/business continuity
+    * [Disaster recovery options in the cloud](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
+    * [Business Continuity Plan (BCP)](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/business-continuity-plan-bcp.html)
+    * [Disaster Recovery (DR) Architecture on AWS, Part I: Strategies for Recovery in the Cloud](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud/)
+    * [Disaster Recovery (DR) Architecture on AWS, Part II: Backup and Restore with Rapid Recovery](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-ii-backup-and-restore-with-rapid-recovery/)
+    * [Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby/)
+    * [Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/)
   * Low latency for end-users
+    * [How can AWS help you reduce latency?](https://aws.amazon.com/whatis/latency/#:~:text=AWS%20Global%20Accelerator%20is%20a,jitter%2C%20and%20latency%20consistently%20low.) 
   * Data sovereignty
+    * [AWS Digital Sovereignty Pledge: Control without compromise](https://aws.amazon.com/blogs/security/aws-digital-sovereignty-pledge-control-without-compromise/)
+    * [Digital Sovereignty at AWS](https://aws.amazon.com/compliance/digital-sovereignty/)
 * Describe at a high level the benefits of Edge Locations
   * Amazon CloudFront
+    *  [What is Amazon CloudFront?](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
   * AWS Global Accelerator
+    * [What is AWS Global Accelerator?](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
 
 #### Identify the core AWS services
 * Describe the categories of services on AWS (compute, storage, network, database)
@@ -248,6 +272,14 @@ and AWS Marketplace tools
   * AWS Pricing API
 * Recognize that alarms/alerts exist
 * Identify how tags are used in cost allocation
+
+## Extras
+
+* [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+* [AWS Cloud Essentials - Getting Started Guide](https://aws.amazon.com/getting-started/cloud-essentials/)
+* [AWS Security Essentials - Getting Started Guide](https://aws.amazon.com/getting-started/aws-security-essentials/)
+* [AWS Billing and Cost Optimizations Essentials - Getting Started Guide](https://aws.amazon.com/getting-started/cost-optimization-essentials/)
+* [AWS Networking Essentials - Getting Started Guide](https://aws.amazon.com/getting-started/aws-networking-essentials/)
 
 ## Show your support
 Give the project's GitHub repository a ⭐️ if this content helped you!
