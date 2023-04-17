@@ -281,11 +281,14 @@ solution architects, training and certification, and the Amazon Partner Network
 
 #### Compare and contrast the various pricing models for AWS (for example, On-Demand Instances, Reserved Instances, and Spot Instance pricing)
 * Identify scenarios/best fit for On-Demand Instance pricing
+  * [On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
 * Identify scenarios/best fit for Reserved-Instance pricing
   * Describe Reserved-Instances flexibility
+    *  [Reserved Instances Pricing](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
   * Describe Reserved-Instances behavior in AWS Organizations
+    * [Reserved instances behavior in AWS organizations](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ri-behavior.html)
 * Identify scenarios/best fit for Spot Instance pricing
-
+  * [Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
 #### Recognize the various account structures in relation to AWS billing and pricing
 * Recognize that consolidated billing is a feature of AWS Organizations
 * Identify how multiple accounts aid in allocating costs across departments
