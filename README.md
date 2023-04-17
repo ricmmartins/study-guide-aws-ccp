@@ -87,7 +87,7 @@ SOCs)
   * Recognize that compliance requirements vary among AWS services
     * [AWS Services in Scope by Compliance Program](https://aws.amazon.com/compliance/services-in-scope/SOC/)
     * [Introduction to AWS Security - Compliance section](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html)
-    * [Introduction to AWS Security - PDF Whitepaper]([https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf))
+    * [Introduction to AWS Security - PDF Whitepaper](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf)
     * [AWS Risk and Compliance E-book](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance.pdf)
 * At a high level, describe how customers achieve compliance on AWS
   * Identify different encryption options on AWS (for example, In transit, At rest)
