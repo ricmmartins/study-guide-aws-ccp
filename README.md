@@ -237,14 +237,23 @@ compared to Amazon Elastic Container Service (Amazon ECS), or Amazon EC2, etc.)
     * [AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/index.html)
 * Identify AWS networking services
   * Identify VPC
+    * [What is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
   * Identify security groups
+    * [Control traffic to resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
   * Identify the purpose of Amazon Route 53
+    * [What is Amazon Route 53?](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
   * Identify VPN, AWS Direct Connect
+    *  [AWS VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/networking-services.html#aws-vpn)
+    * [AWS Direct Connect](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/networking-services.html#aws-direct-connect)
 * Identify different AWS database services
   * Install databases on Amazon EC2 compared to AWS managed databases
+    * [Choosing between Amazon EC2 and Amazon RDS](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-sql-server/comparison.html)
   * Identify Amazon RDS
+    * [What is Amazon Relational Database Service (Amazon RDS)?](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
   * Identify Amazon DynamoDB
+    * [What is Amazon DynamoDB?](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
   * Identify Amazon Redshift
+    * [What is Amazon Redshift?](https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html)
 
 #### Identify resources for technology support
 * Recognize there is documentation (best practices, whitepapers, AWS Knowledge Center,
