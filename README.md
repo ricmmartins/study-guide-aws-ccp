@@ -291,7 +291,9 @@ solution architects, training and certification, and the Amazon Partner Network
   * [Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
 #### Recognize the various account structures in relation to AWS billing and pricing
 * Recognize that consolidated billing is a feature of AWS Organizations
+  * [Consolidated billing for AWS Organizations](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html)
 * Identify how multiple accounts aid in allocating costs across departments
+  * [Cost Allocation Basics That You Need to Know](https://aws.amazon.com/blogs/aws-cloud-financial-management/cost-allocation-basics-that-you-need-to-know/)
 
 #### Identify resources available for billing support
 * Identify ways to get billing support and information
