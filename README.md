@@ -279,8 +279,7 @@ solution architects, training and certification, and the Amazon Partner Network
 
 ### 💡 Billing and Pricing (16%)
 
-#### Compare and contrast the various pricing models for AWS (for example, On-Demand Instances,
-Reserved Instances, and Spot Instance pricing)
+#### Compare and contrast the various pricing models for AWS (for example, On-Demand Instances, Reserved Instances, and Spot Instance pricing)
 * Identify scenarios/best fit for On-Demand Instance pricing
 * Identify scenarios/best fit for Reserved-Instance pricing
   * Describe Reserved-Instances flexibility
