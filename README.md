@@ -208,19 +208,33 @@ Code
 
 #### Identify the core AWS services
 * Describe the categories of services on AWS (compute, storage, network, database)
+  * [Compute on AWS](https://aws.amazon.com/products/compute/)
+  * [Storage on AWS](https://aws.amazon.com/products/storage/)
+  * [Databases on AWS](https://aws.amazon.com/products/databases/)
+  * [Networking on AWS](https://aws.amazon.com/products/networking/) 
 * Identify AWS compute services
   * Recognize there are different compute families
+    * [Instance Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html)
   * Recognize the different services that provide compute (for example, AWS Lambda
 compared to Amazon Elastic Container Service (Amazon ECS), or Amazon EC2, etc.)
+    * [Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
   * Recognize that elasticity is achieved through Auto Scaling
+    * [What is Amazon EC2 Auto Scaling?](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
   * Identify the purpose of load balancers
+    * [What is Load Balancing?](https://aws.amazon.com/what-is/load-balancing/)
 * Identify different AWS storage services
   * Describe Amazon S3
+    * [What is Amazon S3?](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
   * Describe Amazon Elastic Block Store (Amazon EBS)
+    * [Amazon Elastic Block Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
   * Describe Amazon S3 Glacier
+    * [What Is Amazon S3 Glacier?](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
   * Describe AWS Snowball
+    * [What is an AWS Snowball device?](https://docs.aws.amazon.com/snowball/latest/ug/whatissnowball.html)
   * Describe Amazon Elastic File System (Amazon EFS)
+    * [What is Amazon Elastic File System?](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
   * Describe AWS Storage Gateway
+    * [AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/index.html)
 * Identify AWS networking services
   * Identify VPC
   * Identify security groups
