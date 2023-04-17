@@ -85,14 +85,29 @@ infrastructure
 SOCs)
     * [Compliance FAQ](https://aws.amazon.com/compliance/faq/)
   * Recognize that compliance requirements vary among AWS services
+    * [AWS Services in Scope by Compliance Program](https://aws.amazon.com/compliance/services-in-scope/SOC/)
+    * [Introduction to AWS Security - Compliance section](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html)
 * At a high level, describe how customers achieve compliance on AWS
   * Identify different encryption options on AWS (for example, In transit, At rest)
+    * [Data encryption](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/data-encryption.html)
+    * [Encrypting Data-at-Rest and -in-Transit](https://docs.aws.amazon.com/whitepapers/latest/logical-separation/encrypting-data-at-rest-and--in-transit.html)
 * Describe who enables encryption on AWS for a given service
+  * [The importance of encryption and how AWS can help](https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/)
+  * [Three common cloud encryption questions and their answers on AWS](https://aws.amazon.com/blogs/security/three-common-cloud-encryption-questions-and-their-answers-on-aws/)
 * Recognize there are services that will aid in auditing and reporting
+  * [AWS Config](https://aws.amazon.com/config/)
+  * [AWS CloudTrail](https://aws.amazon.com/cloudtrail/)
+  * [AWS Audit Manager](https://aws.amazon.com/audit-manager/)
+  * [AWS Artifact](https://aws.amazon.com/artifact/)
   * Recognize that logs exist for auditing and monitoring (do not have to understand the
 logs)
+    * [Event logging monitoring, auditing and logging](https://docs.aws.amazon.com/whitepapers/latest/architecting-hipaa-security-and-compliance-on-amazon-eks/event-logging-monitoring-auditing-and-logging.html)
   * Define Amazon CloudWatch, AWS Config, and AWS CloudTrail
+    * [What is Amazon CloudWatch?](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+    * [What Is AWS Config?](https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html)
+    * [What Is AWS CloudTrail?](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 * Explain the concept of least privileged access
+  * [Grant least privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html#grant-least-priv)
 
 #### Identify AWS access management capabilities
 * Understand the purpose of User and Identity Management
