@@ -302,14 +302,24 @@ solution architects, training and certification, and the Amazon Partner Network
 * Identify ways to get billing support and information
   * Cost Explorer, AWS Cost and Usage Report, Amazon QuickSight, third-party partners,
 and AWS Marketplace tools
+    * [Analyzing your costs with AWS Cost Explorer](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)
+    * [What are AWS Cost and Usage Reports?](https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html)
+    * [What is Amazon QuickSight?](https://docs.aws.amazon.com/quicksight/latest/user/welcome.html)
   * Open a billing support case
+    * [Getting help with AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-get-answers.html)
   * The role of the Concierge for AWS Enterprise Support Plan customers
+    * [AWS Enterprise Support](https://aws.amazon.com/premiumsupport/plans/enterprise/)
 * Identify where to find pricing information on AWS services
   * AWS Simple Monthly Calculator
+    * [Estimate your costs – AWS Simple Monthly Calculator](https://aws.amazon.com/blogs/aws/estimate-your-c/)
   * AWS Services product pages
   * AWS Pricing API
+    * [Using the AWS Price List API](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/price-changes.html)
 * Recognize that alarms/alerts exist
+  * [Setting up pricing changes notifications](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/price-notification.html)
+  * [Creating a billing alarm to monitor your estimated AWS charges](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
 * Identify how tags are used in cost allocation
+  * [Using AWS cost allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html)
 
 ## Extras
 
