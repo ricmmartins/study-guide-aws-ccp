@@ -196,7 +196,7 @@ Code
     * [Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby/)
     * [Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/)
   * Low latency for end-users
-    * [How can AWS help you reduce latency?](https://aws.amazon.com/whatis/latency/#:~:text=AWS%20Global%20Accelerator%20is%20a,jitter%2C%20and%20latency%20consistently%20low.) 
+    * [How can AWS help you reduce latency?](https://aws.amazon.com/what-is/latency/#:~:text=Latency%20measures%20delay%20in%20a,%2C%20packet%20loss%20is%209%25.) 
   * Data sovereignty
     * [AWS Digital Sovereignty Pledge: Control without compromise](https://aws.amazon.com/blogs/security/aws-digital-sovereignty-pledge-control-without-compromise/)
     * [Digital Sovereignty at AWS](https://aws.amazon.com/compliance/digital-sovereignty/)
